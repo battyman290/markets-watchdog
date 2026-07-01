@@ -203,9 +203,5 @@
 <title>Google Alert - capital goods sector India news</title>
 <link href="https://www.google.com/alerts/feeds/11499364266224126239/13488734444267205901" rel="self"/>
 </feed>"},
-  {"category": "Sector News", "label": "Real Estate Sector", "url": "<feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom-extension:indexing">
-<id>tag:google.com,2005:reader/user/11499364266224126239/state/com.google/alerts/5033556864191722133</id>
-<title>Google Alert - real estate sector India news</title>
-<link href="https://www.google.com/alerts/feeds/11499364266224126239/5033556864191722133" rel="self"/>
-</feed>"}
+  {"category": "Sector News", "label": "Real Estate Sector", "url": "<feed xmlns="https://www.google.com/alerts/feeds/11499364266224126239/5033556864191722133"}
 ]
