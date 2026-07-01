@@ -1,0 +1,17 @@
+[
+  {"category": "Company News", "label": "Thermax Ltd", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+  {"category": "Company News", "label": "Exide Industries", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+  {"category": "Company News", "label": "Mahindra Lifespace", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+
+  {"category": "Interviews / Conferences", "label": "Thermax Ltd", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+  {"category": "Interviews / Conferences", "label": "Exide Industries", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+  {"category": "Interviews / Conferences", "label": "Mahindra Lifespace", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+
+  {"category": "Exhibitions - Delhi NCR", "label": "Energy / Engineering (Thermax sector)", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+  {"category": "Exhibitions - Delhi NCR", "label": "Battery / EV (Exide sector)", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+  {"category": "Exhibitions - Delhi NCR", "label": "Real Estate / Construction (Mahindra Lifespace sector)", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+
+  {"category": "Sector News", "label": "Capital Goods Sector", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+  {"category": "Sector News", "label": "Battery / EV Sector", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"},
+  {"category": "Sector News", "label": "Real Estate Sector", "url": "PASTE_GOOGLE_ALERT_RSS_URL_HERE"}
+]
